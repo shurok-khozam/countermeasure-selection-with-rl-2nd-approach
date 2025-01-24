@@ -1,8 +1,7 @@
 # RL Countermeasures selection - Second Approach
-******
 
 ## Introduction
-******
+
 5G represents the most recent and sophisticated generation of mobile
 communications. It boasts features such as rapid response times, minimal latency,
 and substantial bandwidth.
@@ -18,7 +17,7 @@ SDN as it is the backbone of 5G networks since it enables network administrators
 to centralize control and management of the network
 
 ## Table of contents
-******
+
 - [RL Countermeasures selection - Second Approach](#rl-countermeasures-selection---second-approach)
   * [Introduction](#introduction)
   * [Table of contents](#table-of-contents)
@@ -33,11 +32,11 @@ to centralize control and management of the network
   * [Acknowledgments](#acknowledgments)
 
 ## System Architecture
-******
+
 ![System architecture](project.png)
 
 ## Pseudo code
-******
+
 ```plaintext
 BEGIN
   Initialize the Mininet environment with the specified network topology
@@ -57,7 +56,7 @@ END
 ```
 
 ## Modules
-******
+
 ### Mininet Network
 A Mininet-based network topology with an exposed Flask API.
 
@@ -74,7 +73,7 @@ A python script to generate a JSON topology file for hosts.
 For more details, refer to the corresponding [README.md](tools/hoststopo/README.md) file.
 
 ## Requirements
-******
+
 To be able to run the project, you should have:
 
 - **Ubuntu 20.04 LTS**:
@@ -95,11 +94,11 @@ To be able to run the project, you should have:
   - Git v3.2.3 packaged as 3.2.3-1.
 
 ## License
-******
+
 This project is licensed under the GNU License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
-******
+
 - Thanks to the contributors and maintainers of the Mininet, MHDDoS, and CICFlowMeter projects.
 - Special thanks to the team and advisors who provided insights and expertise that greatly assisted the research.
 - Gratitude to all who provided feedback and suggestions that improved this project.
