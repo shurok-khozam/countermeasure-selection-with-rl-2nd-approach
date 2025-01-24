@@ -1,0 +1,16 @@
+.idea
+.idea/*
+**__pycache__
+**__pycache__/
+reinforcement/tmp
+reinforcement/tmp/*
+tools/tmp
+tools/tmp/*
+reinforcement/old_results
+reinforcement/old_results/
+reinforcement/results
+reinforcement/results/
+testing-file*.py
+**.log
+/2nd plotting/
+/plotting/
