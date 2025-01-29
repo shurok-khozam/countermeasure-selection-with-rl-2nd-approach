@@ -1,4 +1,4 @@
-# RL Countermeasures selection - Second Approach
+# RL Countermeasures selection for mitigating DDoS attacks in SDN networks
 
 ## Introduction
 
@@ -18,7 +18,7 @@ to centralize control and management of the network
 
 ## Table of contents
 
-- [RL Countermeasures selection - Second Approach](#rl-countermeasures-selection---second-approach)
+- [RL Countermeasures selection for mitigating DDoS attacks in SDN networks](#rl-countermeasures-selection-for-mitigating-ddos-attacks-in-sdn-networks)
   * [Introduction](#introduction)
   * [Table of contents](#table-of-contents)
   * [System Architecture](#system-architecture)
